@@ -18,7 +18,13 @@ The dataset used for this project includes the following three Excel sheets:
 2. **Filtering Data:**
    - Data was filtered to include only entries from the year 2016.
 
-## Data Visualization
+# Visualization 
+
+- What does the dashboard look like?
+
+![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+
+
 The following visualizations were created to extract meaningful insights:
 
 1. **Price per Zipcode:**
