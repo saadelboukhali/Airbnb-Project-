@@ -4,6 +4,9 @@
 This project aims to help users find high-quality Airbnb listings by analyzing a dataset from Kaggle. The dataset consists of three Excel sheets, which were merged and analyzed using Tableau to gain insights into various aspects of Airbnb listings, such as pricing, location, revenue, and competition.
 
 ## Data Source
+The dataset used in this project can be accessed from the following link:
+(https://docs.google.com/spreadsheets/d/1rTQ8ugic-oEyvanjmsUwOVHWJqeEyDoX/edit?usp=sharing&ouid=106350706601602342771&rtpof=true&sd=true)
+
 What data is needed to achieve our objective? We need the data of 2016 Airbnb public listings data .
 The dataset used for this project includes the following three Excel sheets:
 - Listings
