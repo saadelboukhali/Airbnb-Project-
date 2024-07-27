@@ -5,6 +5,7 @@ This project aims to help users find high-quality Airbnb listings by analyzing a
 
 ## Data Source
 The dataset used in this project can be accessed from the following link:
+
 (https://docs.google.com/spreadsheets/d/1rTQ8ugic-oEyvanjmsUwOVHWJqeEyDoX/edit?usp=sharing&ouid=106350706601602342771&rtpof=true&sd=true)
 
 What data is needed to achieve our objective? We need the data of 2016 Airbnb public listings data .
