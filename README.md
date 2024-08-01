@@ -31,10 +31,10 @@ The dataset used for this project includes the following three Excel sheets:
 
 The following visualizations were created to extract meaningful insights:
 
-1. **Price per Zipcode:**
+1. **Price by Zipcode:**
    - A bar chart was created to show the average price per zipcode. This helps in identifying the most expensive areas, providing insights for potential investors looking to buy properties for renting out.
 
-2. **Map Visualization:**
+2. **Price Per Zipcode:**
    - A map was added to visualize the location of each zipcode, aiding in geographical understanding of the data.
 
 3. **Revenue for the Year:**
