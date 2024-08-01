@@ -26,7 +26,7 @@ The dataset used for this project includes the following three Excel sheets:
 
 - What does the dashboard look like?
 
-<img src="Assets/Images/Dashboard.gif" width="600" alt="Dashboard GIF"/>
+<img src="Assets/Images/Dashboard.gif" width="1000" alt="Dashboard GIF"/>
 
 
 The following visualizations were created to extract meaningful insights:
