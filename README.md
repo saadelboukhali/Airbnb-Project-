@@ -26,7 +26,7 @@ The dataset used for this project includes the following three Excel sheets:
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+Assets/Images/Video_240801193706 (online-video-cutter.com).gif
 
 
 The following visualizations were created to extract meaningful insights:
