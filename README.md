@@ -26,7 +26,7 @@ The dataset used for this project includes the following three Excel sheets:
 
 - What does the dashboard look like?
 
-![Video Explanation](Assets/Images/Video_240801193706%20(online-video-cutter.com).gif)
+<img src="Assets/Images/Video_240801193706%20(online-video-cutter.com).gif" width="600"/>
 
 
 The following visualizations were created to extract meaningful insights:
