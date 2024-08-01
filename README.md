@@ -24,11 +24,6 @@ The dataset used for this project includes the following three Excel sheets:
 
 # Visualization 
 
-- What does the dashboard look like?
-
-<img src="Assets/Images/Dashboard.gif" width="1000" alt="Dashboard GIF"/>
-
-
 The following visualizations were created to extract meaningful insights:
 
 1. **Price by Zipcode:**
@@ -47,7 +42,14 @@ The following visualizations were created to extract meaningful insights:
    - show the distribution of different bedroom counts in the listings. This helps in understanding the competition and market supply for various bedroom configurations.
 
 ## Dashboard
+- What does the dashboard look like?
 All the above visualizations were combined into a dashboard for an interactive and comprehensive view of the data insights.
+
+<img src="Assets/Images/Dashboard.gif" width="1000" alt="Dashboard GIF"/>
+
+
+
+
 
 ## Conclusion
 This project provides valuable insights into Airbnb listings, helping potential investors, hosts, and users to make informed decisions based on data analysis. The visualizations offer a clear understanding of pricing, location, revenue trends, and competition within the Airbnb market.
