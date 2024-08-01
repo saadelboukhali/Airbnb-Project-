@@ -43,8 +43,8 @@ The following visualizations were created to extract meaningful insights:
 4. **Average Price per Bedroom:**
    - A bar chart was created to display the average price per number of bedrooms. This helps in understanding which bedroom configurations generate the most revenue.
 
-5. **Distinct Count of Bedrooms in Listings:**
-   - A bar chart was used to show the distribution of different bedroom counts in the listings. This helps in understanding the competition and market supply for various bedroom configurations.
+5. **Distinct Count of Bedrooms Listings:**
+   - show the distribution of different bedroom counts in the listings. This helps in understanding the competition and market supply for various bedroom configurations.
 
 ## Dashboard
 All the above visualizations were combined into a dashboard for an interactive and comprehensive view of the data insights.
