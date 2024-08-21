@@ -50,7 +50,7 @@ The following visualizations were created to extract meaningful insights:
 4. **Number of Listings per Bedroom:**
    - This visualization assesses the competition our client would face depending on the type of property they purchase.
 
-   <img src="Assets/Images/Number%20of%20Listings%20per%20Bedrooms.png" width="220" alt="Number of Listings per Bedrooms"/>
+   <img src="Assets/Images/Number%20of%20Listings%20per%20Bedrooms.png" width="180" alt="Number of Listings per Bedrooms"/>
 
 ## Dashboard
 All the above visualizations were combined into a dashboard for an interactive and comprehensive view of the data insights.
