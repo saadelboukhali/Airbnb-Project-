@@ -1,18 +1,17 @@
 # Airbnb Data Analysis Project
 
 ## Project Overview
-This project aims to help users find high-quality Airbnb listings by analyzing a dataset from Kaggle. The dataset consists of three Excel sheets, which were merged and analyzed using Tableau to gain insights into various aspects of Airbnb listings, such as pricing, location, revenue, and competition.
-
+Airbnb has provided many travellers a great, easy and convenient place to stay during their travels. Similarly, it has also given an opportunity for many to earn extra revenue by listing their properties for residents to stay. However, with so many listings available with varying prices, how can an aspiring host know what type of property to invest in, in Seattle, Washington, if his main aim is to list it in Airbnb and earn rental revenue.
 ## Data Source
 The dataset used in this project can be accessed from the following link:
+https://www.kaggle.com/datasets/airbnb/seattle
 
-(https://docs.google.com/spreadsheets/d/1rTQ8ugic-oEyvanjmsUwOVHWJqeEyDoX/edit?usp=sharing&ouid=106350706601602342771&rtpof=true&sd=true)
-
-What data is needed to achieve our objective? We need the data of 2016 Airbnb public listings data .
-The dataset used for this project includes the following three Excel sheets:
+## The Data
+I started by downloading the data. The Airbnb workbook has 3 worksheets:
 - Listings
 - Calendar
 - Reviews
+I proceeded to upload the workbook into tableau. I used inner join to join the 2 tables, Listings and Calendar using the primary key, ID for Listings and Listing ID for Calendar.
 
 ## Data Preparation
 1. **Merging Sheets:**
@@ -26,19 +25,25 @@ The dataset used for this project includes the following three Excel sheets:
 
 The following visualizations were created to extract meaningful insights:
 
-1. **Price by Zipcode:**
-   - A bar chart was created to show the average price per zipcode. This helps in identifying the most expensive areas, providing insights for potential investors looking to buy properties for renting out.
+1. **Average Price Per Zip code:**
+   
+   - Here, we are finding out the average price of all the listings for each zip code. We want to find out which area / Zip code our client can purchase a house for Airbnb so as to get the highest revenue possible.
 
-2. **Price Per Zipcode:**
+![Average Price per Zipcode](Assets/Images/Average%20Price%20per%20Zipcode.png)
+
+![Price per Zipcode](Assets/Images/Price%20per%20Zipcode.png)
+
+
+3. **Price Per Zipcode:**
    - A map was added to visualize the location of each zipcode, aiding in geographical understanding of the data.
 
-3. **Revenue for the Year:**
+4. **Revenue for the Year:**
    - A line chart was used to show the monthly revenue for the year. This visualization helps in identifying peak times when people spend more money on Airbnb, thus understanding the best time to invest or rent out properties.
 
-4. **Average Price per Bedroom:**
+5. **Average Price per Bedroom:**
    - A bar chart was created to display the average price per number of bedrooms. This helps in understanding which bedroom configurations generate the most revenue.
 
-5. **Distinct Count of Bedrooms Listings:**
+6. **Distinct Count of Bedrooms Listings:**
    - show the distribution of different bedroom counts in the listings. This helps in understanding the competition and market supply for various bedroom configurations.
 
 ## Dashboard
