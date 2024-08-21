@@ -45,7 +45,7 @@ The following visualizations were created to extract meaningful insights:
 3. **Average Price per Bedroom:**
    - This visualization examines the average price for each property based on the number of bedrooms it has.
    
-   <img src="Assets/Images/Average%20Price%20Per%20Bedroom.png" width="600" alt="Average Price Per Bedroom"/>
+   <img src="Assets/Images/Average%20Price%20Per%20Bedroom.png" width="400" alt="Average Price Per Bedroom"/>
 
 4. **Number of Listings per Bedroom:**
    - This visualization assesses the competition our client would face depending on the type of property they purchase.
