@@ -15,7 +15,7 @@ The Airbnb workbook consists of 3 worksheets:
 
 ## Data Preparation
 1. **Merging Sheets:**
-   - I uploaded the workbook into Tableau. I used an inner join to combine the `Listings` and `Calendar` tables, using the primary key `ID` for `Listings` and `Listing ID` for `Calendar`.
+   - I uploaded the workbook into Tableau. I used an inner join to combine the Listings and Calendar tables, using the primary key ID for Listings and Listing ID for Calendar.
    
 2. **Filtering Data:**
    - The data was filtered to include only entries from the year 2016.
@@ -28,53 +28,39 @@ The following visualizations were created to extract meaningful insights:
    
    - This visualization identifies the average price of all listings for each zipcode. It helps determine which area/zipcode our client can consider for purchasing a property for Airbnb to achieve the highest possible revenue.
    
-   <div style="text-align: center;">
-     <img src="Assets/Images/Average%20Price%20per%20Zipcode.png" width="600" alt="Average Price per Zipcode" style="border: 2px solid #000;"/>
-   </div>
+   <img src="Assets/Images/Average%20Price%20per%20Zipcode.png" width="600" alt="Average Price per Zipcode"/>
    
    - A map was added to visualize the location of each zipcode, aiding in the geographical understanding of the data.
 
-   <div style="text-align: center;">
-     <img src="Assets/Images/Price%20per%20Zipcode.png" width="600" alt="Price per Zipcode" style="border: 2px solid #000;"/>
-   </div>
+   <img src="Assets/Images/Price%20per%20Zipcode.png" width="600" alt="Price per Zipcode"/>
 
    As we can see, the zip code area 98134 has the highest listing price per property, while the zip code 98125 has the lowest listing price per property.
 
-2. **Revenue for the Year:**
+3. **Revenue for the Year:**
    
    - This visualization identifies the best months to list a property on Airbnb. Different times of the year bring in varying revenues, making it crucial to determine which months our client should focus on.
      
-   <div style="text-align: center;">
-     <img src="Assets/Images/Revenue%20for%20the%20Year.png" width="600" alt="Revenue for the Year" style="border: 2px solid #000;"/>
-   </div>
+   <img src="Assets/Images/Revenue%20for%20the%20Year.png" width="600" alt="Revenue for the Year"/>
    
    We see that January and February bring in lower revenues compared to the other months. Since not many people travel in January and February due to winter, I would advise my client to focus more on March to December, as these months would generate more revenue.
 
-3. **Average Price per Bedroom:**
+4. **Average Price per Bedroom:**
    
    - This visualization examines the average price for each property based on the number of bedrooms it has.
-
-     
    
-   <div style="text-align: center;">
-     <img src="Assets/Images/Average%20Price%20Per%20Bedroom.png" width="300" alt="Average Price Per Bedroom" style="border: 2px solid #000;"/>
-   </div>
+   <img src="Assets/Images/Average%20Price%20Per%20Bedroom.png" width="300" alt="Average Price Per Bedroom"/>
 
-4. **Number of Listings per Bedroom:**
+5. **Number of Listings per Bedroom:**
    
    - This visualization assesses the competition our client would face depending on the type of property they purchase.
    
-   <div style="text-align: center;">
-     <img src="Assets/Images/Number%20of%20Listings%20per%20Bedrooms.png" width="180" alt="Number of Listings per Bedrooms" style="border: 2px solid #000;"/>
-   </div>
+   <img src="Assets/Images/Number%20of%20Listings%20per%20Bedrooms.png" width="180" alt="Number of Listings per Bedrooms"/>
 
 ## Dashboard
 
 All the above visualizations were combined into a dashboard for an interactive and comprehensive view of the data insights.
 
-<div style="text-align: center;">
-  <img src="Assets/Images/Dashboard.gif" width="600" alt="Dashboard GIF" style="border: 2px solid #000;"/>
-</div>
+<img src="Assets/Images/Dashboard.gif" width="600" alt="Dashboard GIF"/>
 
 ## Summary
 
