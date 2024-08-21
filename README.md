@@ -15,10 +15,10 @@ I began by downloading the data. The Airbnb workbook consists of 3 worksheets:
 - **Reviews**
 
 ## Data Preparation
-1. **Merging Sheets:**
+1. *Merging Sheets:*
    - I uploaded the workbook into Tableau. I used an inner join to combine the `Listings` and `Calendar` tables, using the primary key `ID` for `Listings` and `Listing ID` for `Calendar`.
    
-2. **Filtering Data:**
+2. *Filtering Data:*
    - The data was filtered to include only entries from the year 2016.
 
 ## Visualizations 
