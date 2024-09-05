@@ -1,5 +1,7 @@
 # Airbnb Data Analysis Project
 
+![Dashboard1](Assets/Images/Dashboard1.png)
+
 ## Project Overview
 Airbnb has provided many travelers with a great, easy, and convenient place to stay during their travels. Similarly, it has also offered many the opportunity to earn extra revenue by listing their properties for short-term stays. However, with so many listings available at varying prices, how can an aspiring host know what type of property to invest in within Seattle, Washington, if their main aim is to list it on Airbnb and earn rental revenue?
 
