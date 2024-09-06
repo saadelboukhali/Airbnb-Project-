@@ -72,6 +72,11 @@ The following visualizations were created to extract meaningful insights:
 
 All the above visualizations were combined into a dashboard for an interactive and comprehensive view of the data insights.
 
+![Dashboard](Assets/Images/Dashboard.gif)
+
+
+
+
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="Assets/Images/Dashboard.gif" width="600" alt="Dashboard GIF" style="border: 2px solid #000;"/>
 </div>
